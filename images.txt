@@ -1,4 +1,1 @@
-alpine:latest
-gcc:14.1.0
-gitlab/gitlab-ce:17.0.1-ce.0
-gitlab/gitlab-runner:latest
+gitlab/gitlab-ce:17.1.1-ce.0
