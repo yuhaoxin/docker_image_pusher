@@ -1,1 +1,1 @@
-redis:alpine
+moosivp/moos-ivp:trunk-gui
