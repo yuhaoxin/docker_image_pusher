@@ -1,1 +1,1 @@
-moosivp/moos-ivp:trunk-gui
+gitlab/gitlab-ce:17.1.3-ce.0
