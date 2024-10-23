@@ -1,1 +1,1 @@
-ghcr.io/binary-husky/gpt_academic_with_latex:master
+moosivp/moos-ivp:trunk-gui
