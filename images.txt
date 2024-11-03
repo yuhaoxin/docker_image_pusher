@@ -1,1 +1,1 @@
-moosivp/moos-ivp:trunk-gui
+python:latest
