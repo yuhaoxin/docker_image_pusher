@@ -1,1 +1,1 @@
-moosivp/moos-ivp:trunk-gui
+yidadaa/chatgpt-next-web:v2.15.8
