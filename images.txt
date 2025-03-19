@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-stilleshan/frpc
-stilleshan/frps
+ubuntu:22.04
+
